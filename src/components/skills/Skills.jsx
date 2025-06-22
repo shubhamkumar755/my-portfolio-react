@@ -24,10 +24,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">HTML</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uis uis-star-half-alt"></i>
                 </div>
               </div>
@@ -36,10 +36,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">CSS</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -48,10 +48,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Javascript</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -60,10 +60,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">React</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -72,9 +72,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Vite</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
@@ -84,9 +84,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Bootstrap</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
@@ -108,10 +108,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">VS Code</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -120,10 +120,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Github</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -132,10 +132,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Jupyter/Colab</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -144,9 +144,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Appwrite</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
@@ -156,10 +156,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Vercel</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -182,10 +182,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">C++</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uis uis-star-half-alt"></i>
                 </div>
               </div>
@@ -194,9 +194,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Java</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uis uis-star-half-alt"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
@@ -206,9 +206,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Python</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
@@ -230,10 +230,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Pandas</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -242,9 +242,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Numpy</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uis uis-star-half-alt"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
@@ -254,9 +254,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Matplotlib</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
@@ -280,10 +280,10 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Scikit-learn</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
               </div>
@@ -292,9 +292,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">TensorFlow</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
@@ -304,9 +304,9 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Keras</h3>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
-                  <i className="uim uim-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
+                  <i className="uis uis-star"></i>
                   <i className="uil uil-favorite"></i>
                   <i className="uil uil-favorite"></i>
                 </div>
