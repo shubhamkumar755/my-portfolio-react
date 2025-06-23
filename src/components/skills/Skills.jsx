@@ -7,8 +7,7 @@ const Skills = () => {
   return (
     <section className="skills section" id='skills'>
       <h2 className="section__title">Skills</h2>
-      <span className="section__subtitle">My technical level</span>
-      <span className="section__subtitle">(The stars represent my expertise level, with 5 stars being the highest.)</span>
+      <span className="section__subtitle">My technical level (The stars represent my expertise level, with 5 stars being the highest)</span>
 
 
       <div className="skills__container container grid">
