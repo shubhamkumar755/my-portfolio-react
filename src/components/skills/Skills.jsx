@@ -6,7 +6,7 @@ import "./skills.css"
 const Skills = () => {
   return (
     <section className="skills section" id='skills'>
-      <h2 className="section__title">Skills</h2>
+      <h5 className="section__title">Skills</h5>
       <span className="section__subtitle">My technical level (The stars represent my expertise level, with 5 stars being the highest)</span>
 
 
@@ -24,7 +24,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">HTML</h3>
-                  <h2>Advanced</h2>
+                  <h5>Advanced</h5>
                 </div>
               </div>
 
@@ -32,7 +32,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">CSS</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -40,7 +40,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Javascript</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -48,7 +48,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">React</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -56,7 +56,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Vite</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -64,7 +64,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Bootstrap</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
           
                 </div>
               </div>
@@ -85,7 +85,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">VS Code</h3>
-                  <h2>Advanced</h2>
+                  <h5>Advanced</h5>
                 </div>
               </div>
 
@@ -93,7 +93,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Github</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -101,7 +101,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Jupyter/Colab</h3>
-                  <h2>Advanced</h2>
+                  <h5>Advanced</h5>
                 </div>
               </div>
 
@@ -109,7 +109,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Appwrite</h3>
-                  <h2>Basic</h2>
+                  <h5>Basic</h5>
                 </div>
               </div>
 
@@ -117,7 +117,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Vercel</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -139,7 +139,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">C++</h3>
-                  <h2>Advanced</h2>
+                  <h5>Advanced</h5>
                 </div>
               </div>
 
@@ -147,7 +147,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Java</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -155,7 +155,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Python</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -175,7 +175,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Pandas</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -183,7 +183,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Numpy</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -191,7 +191,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Matplotlib</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -213,7 +213,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Scikit-learn</h3>
-                  <h2>Intermediate</h2>
+                  <h5>Intermediate</h5>
                 </div>
               </div>
 
@@ -221,7 +221,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">TensorFlow</h3>
-                  <h2>Basic</h2>
+                  <h5>Basic</h5>
                 </div>
               </div>
 
@@ -229,7 +229,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">Keras</h3>
-                  <h2>Basic</h2>
+                  <h5>Basic</h5>
                 </div>
               </div>
 
