@@ -24,7 +24,7 @@ const Skills = () => {
                 <i className='bx bx-badge-check'></i>
                 <div>
                   <h3 className="skills__name">HTML</h3>
-                  <h2>Advanced<h2/>
+                  <h2>Advanced</h2>
                 </div>
               </div>
 
