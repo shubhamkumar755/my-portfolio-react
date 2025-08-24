@@ -28,7 +28,7 @@ const Contact = () => {
 
 
                 <div className="contact__content">
-                    <h3 className="contact__title">Drop Me a Message<p style={{ color: "red", fontSize: "11px" }}>This is currently unavailable!</p></h3>
+                    <h3 className="contact__title">Drop Me a Message</h3>
 
 
                     <form className='contact__form'>
