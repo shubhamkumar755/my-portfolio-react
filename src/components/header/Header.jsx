@@ -60,7 +60,7 @@ const Header = () => {
                             <a href="#portfolio" className={activeNav === "#portfolio" ? "nav__link active-link" : "nav__link"}
                                 onClick={() => setActiveNav("#portfolio")}>
                                 <i className="uil uil-scenery nav__icon"></i>
-                                Portfolio
+                                Projects
                             </a>
                         </li>
 
